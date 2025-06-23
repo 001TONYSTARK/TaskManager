@@ -1,6 +1,0 @@
-com\example\TaskManagerSpring\service\TaskService.class
-com\example\TaskManagerSpring\model\Task.class
-com\example\TaskManagerSpring\repository\TaskRepository.class
-com\example\TaskManagerSpring\TaskManagerSpringApplication.class
-com\example\TaskManagerSpring\controller\HomeController.class
-com\example\TaskManagerSpring\controller\TaskController.class
